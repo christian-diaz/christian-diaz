@@ -34,6 +34,7 @@ const returnRandBase = () => {
           if(dna[i] === obj[i]){
             totalEqual += 1;
           } 
+          //TODO: test codesnapper
         };
         percentage = (totalEqual/this.dna.length) * 100;
         percentage2Dec = percentage.toFixed(2);
@@ -56,6 +57,7 @@ const returnRandBase = () => {
       survivingSpecimen.push(newOrg);
     };
     specimenCounter++;
+    //FIXME: why does it throw random numbers and not sequentually from 1 - 30??
   };
   
   console.log(survivingSpecimen);
