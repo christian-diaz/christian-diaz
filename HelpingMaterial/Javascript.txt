@@ -1,0 +1,6 @@
+Node as a REPL
+REPL = "Read-Evaluate-Print-Loop";
+Documentation link = "https://nodejs.org/api/repl.html";
+
+Node Core Modules
+Documentation link = "https://nodejs.org/api/modules.html#modules_modules";
