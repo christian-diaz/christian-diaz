@@ -1,0 +1,54 @@
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h3, p {
+    font-family: Helvetica;
+}
+
+.header {
+    background-image: url(./images/pattern.webp);
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes-div h2 {
+    background-color: mediumspringgreen;
+}
+
+
+.frames-div h2 {
+    background-color: lightcoral;
+}
+
+
+.paint-div h2 {
+    background-color: skyblue;
+}
+
+.pricing-text {
+    font-weight: bold;
+    color: blue;
+}

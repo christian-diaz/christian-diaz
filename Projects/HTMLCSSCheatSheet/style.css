@@ -1,0 +1,49 @@
+body {
+    font-family: Arial,sans-serif;
+    background-color: gainsboro;
+}
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+    display: table;
+    border-spacing: 2px;
+}
+    
+
+thead {
+    background-color: plum;
+
+}
+
+td {
+    border-top: 1px solid darkorchid;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
